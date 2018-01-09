@@ -1,0 +1,25 @@
+{
+  "name": "RESTful-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/I3uckwheat/nodeJS-RESTful-server-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/I3uckwheat/nodeJS-RESTful-server-tutorial/issues"
+  },
+  "homepage": "https://github.com/I3uckwheat/nodeJS-RESTful-server-tutorial#readme",
+  "dependencies": {
+    "errorhandler": "1.5.0",
+    "express": "4.16.2",
+    "morgan": "1.9.0"
+  }
+}
